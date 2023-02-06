@@ -30,6 +30,8 @@ $products = $statement->fetchAll();
 
     <h1> Les Bien immobiliers</h1>
 
+    <h3>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ea incidunt facilis tempore ad! Nam veritatis vero deserunt illo suscipit fugit in esse quo ab qui ad, consequatur vitae, doloribus eligendi.</h3>
+
     <form action="" class="mb-4">
         <div class="form-group mb-4">
             <input type="text" class="form-control" name="q" placeholder="Rechercher par ville">
